@@ -1,1 +1,1 @@
-Link to dataset: https://ourworldindata.org/covid-deaths 
+Dataset: https://ourworldindata.org/covid-deaths 
